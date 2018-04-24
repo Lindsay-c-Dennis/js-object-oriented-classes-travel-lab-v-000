@@ -22,7 +22,7 @@ class Route {
     }
     
   blocksTravelled() {
-    
+    let verticalDistance = Math.abs()
     
     
   }
